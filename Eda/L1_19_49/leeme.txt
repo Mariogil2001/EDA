@@ -1,0 +1,27 @@
+(19 de septiembre de 2022)
+
+Repositorio para la realización de las prácticas de la asignatura "36483-Estructuras de datos y algoritmos" (2º Grado en Ingeniería Multimedia).
+
+El repositorio consta de 8 carpetas, una para cada práctica (de 1 a 8), más una carpeta con un ejemplo (Pr0). Los archivos utilizados en cada práctica deben almacenarse en la carpeta correspondiente. Por ejemplo, todos lo archivos utilizados para resolver la práctica 3 estarán dentro de la carpeta "Pr3" y lo mismo para las restantes prácticas. 
+
+Será responsabilidad de los estudiantes gestionar correctamente la organización y contenido de su repositorio. Para la evaluación de las prácticas se asumirá esta organización y cualquier alteración de la mismas no será considerada y supondrá una calificación negativa del trabajo.
+
+----
+
+(19 de setembre de 2022)
+
+Repositori per a la realització de les pràctiques de l'assignatura "36483-Estructures de dades i algorismes" (2n Grau en Enginyeria Multimèdia).
+
+El repositori consta de 8 carpetes (de 1 a 8), una per a cada pràctica, més una carpeta amb un exemple (PR0). Els arxius utilitzats en cada pràctica han d'emmagatzemar-se en la carpeta corresponent. Per exemple, tots l'arxius utilitzats per a resoldre la pràctica 3 estaran dins de la carpeta "Pr3" i el mateix per a les restants pràctiques.
+
+Serà responsabilitat dels estudiants gestionar correctament l'organització i contingut del seu repositori. Per a l'avaluació de les pràctiques s'assumirà aquesta organització i qualsevol alteració de la mateixes no serà considerada i suposarà una qualificació negativa del treball.
+
+----
+
+(September 19th, 2022)
+
+Repository for the realization of the practices of the subject "36483-Data Structures and Algorithms" (2nd Degree in Multimedia Engineering).
+
+The repository consists of 8 folders (from 1 to 8), one for each practice, plus a folder with an example (Pr0). The files used in each practice should be stored in the corresponding folder. For example, all files used to solve practice 3 will be in the "Pr3" folder and the same for the remaining practices.
+
+It will be the responsibility of the students to correctly manage the organization and content of their repository. For the evaluation of the practices this organization will be assumed and any alteration of the same will not be considered and will suppose a negative qualification of the work.

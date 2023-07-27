@@ -1,0 +1,1200 @@
+carmenmerc: Jugador activo. 
+fernandolo: Jugador activo. 
+mariaeuseb: Jugador activo. 
+carmenmerc: Ha sido desconectado del juego.
+Hay espacio disponible en la partida.
+doloresjul: Jugador activo. 
+zuriamusle: Jugador activo. 
+genowefagu: Jugador activo. 
+dioselinam: Jugador activo. 
+daniulianv: Jugador activo. 
+orlandojes: Jugador activo. 
+sandramoni: Jugador activo. 
+shoukatarc: Jugador activo. 
+adrianamar: Jugador activo. 
+dionisioan: Espera turno en la sala de espera.
+brettllans: Espera turno en la sala de espera.
+manuelreye: Espera turno en la sala de espera.
+monicamarg: Espera turno en la sala de espera.
+ekaitzcarc: Espera turno en la sala de espera.
+begumgilda: Espera turno en la sala de espera.
+isabelmaca: Espera turno en la sala de espera.
+carlosjesu: Espera turno en la sala de espera.
+samjumilla: Espera turno en la sala de espera.
+michelleel: Espera turno en la sala de espera.
+sulaymanes: Espera turno en la sala de espera.
+silviumiha: Espera turno en la sala de espera.
+marioisrae: Espera turno en la sala de espera.
+bogdangeor: Espera turno en la sala de espera.
+amaliaenca: Espera turno en la sala de espera.
+mariaeuseb: Ha sido desconectado del juego.
+dionisioan: Pasa a ser Jugador activo.
+iharcajide: Espera turno en la sala de espera.
+omaymacean: Espera turno en la sala de espera.
+robertojua: Espera turno en la sala de espera.
+doloresjul: Ha sido desconectado del juego.
+brettllans: Pasa a ser Jugador activo.
+gilbertofr: Espera turno en la sala de espera.
+juanasofia: Espera turno en la sala de espera.
+zuriamusle: Ha sido desconectado del juego.
+manuelreye: Pasa a ser Jugador activo.
+mohamedkar: Espera turno en la sala de espera.
+genowefagu: Ha sido desconectado del juego.
+monicamarg: Pasa a ser Jugador activo.
+mariaagapi: Espera turno en la sala de espera.
+irismargab: Espera turno en la sala de espera.
+juangenaro: Espera turno en la sala de espera.
+dioselinam: Ha sido desconectado del juego.
+ekaitzcarc: Pasa a ser Jugador activo.
+keithricha: Espera turno en la sala de espera.
+blancajuli: Espera turno en la sala de espera.
+aatikalope: Espera turno en la sala de espera.
+manuelaros: Espera turno en la sala de espera.
+hirampatel: Espera turno en la sala de espera.
+gregorioma: Espera turno en la sala de espera.
+anielaheri: Espera turno en la sala de espera.
+daniulianv: Ha sido desconectado del juego.
+begumgilda: Pasa a ser Jugador activo.
+xiaojuanel: Espera turno en la sala de espera.
+luftoldeca: Espera turno en la sala de espera.
+rosamartin: Espera turno en la sala de espera.
+javierigna: Espera turno en la sala de espera.
+sohaibgonz: Espera turno en la sala de espera.
+craigjohng: Espera turno en la sala de espera.
+austinvill: Espera turno en la sala de espera.
+ilduaraagu: Espera turno en la sala de espera.
+khadoujaai: Espera turno en la sala de espera.
+marcoalexa: Espera turno en la sala de espera.
+oumkaltoum: Espera turno en la sala de espera.
+arienadeem: Espera turno en la sala de espera.
+jefryduran: Espera turno en la sala de espera.
+rutnoemimo: Espera turno en la sala de espera.
+souhaibmed: Espera turno en la sala de espera.
+luzestelam: Espera turno en la sala de espera.
+vicentaros: Espera turno en la sala de espera.
+orlandojes: Ha sido desconectado del juego.
+isabelmaca: Pasa a ser Jugador activo.
+coraimaech: Espera turno en la sala de espera.
+fernandoal: Espera turno en la sala de espera.
+noeliabele: Espera turno en la sala de espera.
+vladmihais: Espera turno en la sala de espera.
+gonzaloger: Espera turno en la sala de espera.
+davidivans: Espera turno en la sala de espera.
+souhailahu: Espera turno en la sala de espera.
+mariaasunc: Espera turno en la sala de espera.
+pacianomat: Espera turno en la sala de espera.
+menanabena: Espera turno en la sala de espera.
+marouandao: Espera turno en la sala de espera.
+sandramoni: Ha sido desconectado del juego.
+carlosjesu: Pasa a ser Jugador activo.
+wolfgangwa: Espera turno en la sala de espera.
+gladysalic: Espera turno en la sala de espera.
+annemargar: Espera turno en la sala de espera.
+guillemjoa: Espera turno en la sala de espera.
+idiatoumig: Espera turno en la sala de espera.
+shoukatarc: Ha sido desconectado del juego.
+samjumilla: Pasa a ser Jugador activo.
+rimadosuna: Espera turno en la sala de espera.
+luishomero: Espera turno en la sala de espera.
+catalinacr: Espera turno en la sala de espera.
+aiyongwalo: Espera turno en la sala de espera.
+lucasvicen: Espera turno en la sala de espera.
+adargomafo: Espera turno en la sala de espera.
+alejandror: Espera turno en la sala de espera.
+maneazcona: Espera turno en la sala de espera.
+luismariab: Espera turno en la sala de espera.
+silmaraorj: Espera turno en la sala de espera.
+mariavalva: Espera turno en la sala de espera.
+marcaureli: Espera turno en la sala de espera.
+gaofenglak: Espera turno en la sala de espera.
+anamariacr: Espera turno en la sala de espera.
+tobybahida: Espera turno en la sala de espera.
+slimancaud: Espera turno en la sala de espera.
+carmenioan: Espera turno en la sala de espera.
+reyesneira: Espera turno en la sala de espera.
+floramaria: Espera turno en la sala de espera.
+patriciado: Espera turno en la sala de espera.
+montielsel: Espera turno en la sala de espera.
+nabiaelkha: Espera turno en la sala de espera.
+lutgardodo: Espera turno en la sala de espera.
+karinegraj: Espera turno en la sala de espera.
+claudetata: Espera turno en la sala de espera.
+pierremari: Espera turno en la sala de espera.
+ionelacori: Espera turno en la sala de espera.
+benignaazz: Espera turno en la sala de espera.
+yolandanie: Espera turno en la sala de espera.
+paolamarce: Espera turno en la sala de espera.
+vasileeuge: Espera turno en la sala de espera.
+mariaesper: Espera turno en la sala de espera.
+elviraluis: Espera turno en la sala de espera.
+mariacarme: Espera turno en la sala de espera.
+adrianamar: Ha sido desconectado del juego.
+michelleel: Pasa a ser Jugador activo.
+elizetedia: Espera turno en la sala de espera.
+manuelnico: Espera turno en la sala de espera.
+abenciogoe: Espera turno en la sala de espera.
+evatamarag: Espera turno en la sala de espera.
+fatimacand: Espera turno en la sala de espera.
+alexisseba: Espera turno en la sala de espera.
+carmeniuli: Espera turno en la sala de espera.
+danielacar: Espera turno en la sala de espera.
+adrianapil: Espera turno en la sala de espera.
+dimitriyes: Espera turno en la sala de espera.
+alexanderm: Espera turno en la sala de espera.
+clioayoubi: Espera turno en la sala de espera.
+elenaraque: Espera turno en la sala de espera.
+josselynni: Espera turno en la sala de espera.
+arucalazea: Espera turno en la sala de espera.
+matildeeug: Espera turno en la sala de espera.
+jenniferma: Espera turno en la sala de espera.
+simoncharl: Espera turno en la sala de espera.
+doloresmat: Espera turno en la sala de espera.
+dayaniterr: Espera turno en la sala de espera.
+celscalver: Espera turno en la sala de espera.
+nancyparet: Espera turno en la sala de espera.
+angelflore: Espera turno en la sala de espera.
+dionisioan: Ha sido desconectado del juego.
+sulaymanes: Pasa a ser Jugador activo.
+sergioleon: Espera turno en la sala de espera.
+martinjose: Espera turno en la sala de espera.
+carmenange: Espera turno en la sala de espera.
+eliosbedon: Espera turno en la sala de espera.
+jaspercarr: Espera turno en la sala de espera.
+juliaclaud: Espera turno en la sala de espera.
+raquelcarm: Espera turno en la sala de espera.
+obduliamar: Espera turno en la sala de espera.
+mengmengur: Espera turno en la sala de espera.
+joaquinarm: Espera turno en la sala de espera.
+martagraci: Espera turno en la sala de espera.
+alaznemomb: Espera turno en la sala de espera.
+carlyuzrob: Espera turno en la sala de espera.
+carlosisid: Espera turno en la sala de espera.
+carmensilv: Espera turno en la sala de espera.
+jeronimomi: Espera turno en la sala de espera.
+brettllans: Ha sido desconectado del juego.
+silviumiha: Pasa a ser Jugador activo.
+terenciano: Espera turno en la sala de espera.
+anaauxilia: Espera turno en la sala de espera.
+osmanysanc: Espera turno en la sala de espera.
+manuelreye: Ha sido desconectado del juego.
+marioisrae: Pasa a ser Jugador activo.
+illiasanch: Espera turno en la sala de espera.
+normaesthe: Espera turno en la sala de espera.
+telmamogue: Espera turno en la sala de espera.
+fernandoig: Espera turno en la sala de espera.
+mariafalga: Espera turno en la sala de espera.
+calinaorpe: Espera turno en la sala de espera.
+lizardoweb: Espera turno en la sala de espera.
+gabrielagu: Espera turno en la sala de espera.
+claraangel: Espera turno en la sala de espera.
+hermogenes: Espera turno en la sala de espera.
+genyurenas: Espera turno en la sala de espera.
+acaciabach: Espera turno en la sala de espera.
+mariazocue: Espera turno en la sala de espera.
+mariapenel: Espera turno en la sala de espera.
+mireiaisab: Espera turno en la sala de espera.
+nuriabeatr: Espera turno en la sala de espera.
+andreeamar: Espera turno en la sala de espera.
+joanneeliz: Espera turno en la sala de espera.
+xiaohuiman: Espera turno en la sala de espera.
+emanueladr: Espera turno en la sala de espera.
+itohannegr: Espera turno en la sala de espera.
+susanmayna: Espera turno en la sala de espera.
+sinaisanan: Espera turno en la sala de espera.
+mariogusta: Espera turno en la sala de espera.
+oscaresteb: Espera turno en la sala de espera.
+lauraantoniaelm: Espera turno en la sala de espera.
+bodilazouz: Espera turno en la sala de espera.
+alvarinape: Espera turno en la sala de espera.
+gracielaro: Espera turno en la sala de espera.
+emilioalbe: Espera turno en la sala de espera.
+amaralsale: Espera turno en la sala de espera.
+madalinami: Espera turno en la sala de espera.
+danieljavi: Espera turno en la sala de espera.
+inmaculada: Espera turno en la sala de espera.
+soniasofia: Espera turno en la sala de espera.
+begonadolo: Espera turno en la sala de espera.
+benjaminja: Espera turno en la sala de espera.
+marinafati: Espera turno en la sala de espera.
+leonorange: Espera turno en la sala de espera.
+sharonmora: Espera turno en la sala de espera.
+heberfaurl: Espera turno en la sala de espera.
+rafaeldari: Espera turno en la sala de espera.
+aglaegrano: Espera turno en la sala de espera.
+mayorosueirasak: Espera turno en la sala de espera.
+mariajudit: Espera turno en la sala de espera.
+petricapas: Espera turno en la sala de espera.
+xiaojiecar: Espera turno en la sala de espera.
+tomaszmarc: Espera turno en la sala de espera.
+jesusalber: Espera turno en la sala de espera.
+mikayelber: Espera turno en la sala de espera.
+ubaldacasc: Espera turno en la sala de espera.
+lucidiaayu: Espera turno en la sala de espera.
+monicamarg: Ha sido desconectado del juego.
+bogdangeor: Pasa a ser Jugador activo.
+diegogerar: Espera turno en la sala de espera.
+ameliaisab: Espera turno en la sala de espera.
+ekaitzcarc: Ha sido desconectado del juego.
+amaliaenca: Pasa a ser Jugador activo.
+begumgilda: Ha sido desconectado del juego.
+iharcajide: Pasa a ser Jugador activo.
+terencejam: Espera turno en la sala de espera.
+alvardvill: Espera turno en la sala de espera.
+ioancristi: Espera turno en la sala de espera.
+myrianbeat: Espera turno en la sala de espera.
+parvinpark: Espera turno en la sala de espera.
+waltercarl: Espera turno en la sala de espera.
+isabelmaca: Ha sido desconectado del juego.
+omaymacean: Pasa a ser Jugador activo.
+reidarfuri: Espera turno en la sala de espera.
+georgialou: Espera turno en la sala de espera.
+ritacaroli: Espera turno en la sala de espera.
+josefainma: Espera turno en la sala de espera.
+eridaniaci: Espera turno en la sala de espera.
+tavitamayo: Espera turno en la sala de espera.
+edytaannak: Espera turno en la sala de espera.
+bozhidarpa: Espera turno en la sala de espera.
+felisaconc: Espera turno en la sala de espera.
+conchitafi: Espera turno en la sala de espera.
+carlosjesu: Ha sido desconectado del juego.
+robertojua: Pasa a ser Jugador activo.
+junkosolba: Espera turno en la sala de espera.
+maureenann: Espera turno en la sala de espera.
+philippaar: Espera turno en la sala de espera.
+geronimami: Espera turno en la sala de espera.
+irenerocio: Espera turno en la sala de espera.
+mafteidelu: Espera turno en la sala de espera.
+saturninoj: Espera turno en la sala de espera.
+michelinam: Espera turno en la sala de espera.
+afrodisioo: Espera turno en la sala de espera.
+alexandras: Espera turno en la sala de espera.
+veruskalun: Espera turno en la sala de espera.
+marialaure: Espera turno en la sala de espera.
+dharmapoma: Espera turno en la sala de espera.
+andrewpaul: Espera turno en la sala de espera.
+awildasena: Espera turno en la sala de espera.
+doloresrit: Espera turno en la sala de espera.
+sirleneter: Espera turno en la sala de espera.
+abdoulahat: Espera turno en la sala de espera.
+mariapenam: Espera turno en la sala de espera.
+samjumilla: Ha sido desconectado del juego.
+gilbertofr: Pasa a ser Jugador activo.
+nataliacar: Espera turno en la sala de espera.
+harshtorre: Espera turno en la sala de espera.
+albertinam: Espera turno en la sala de espera.
+meryluzalm: Espera turno en la sala de espera.
+michelleel: Ha sido desconectado del juego.
+juanasofia: Pasa a ser Jugador activo.
+susanamanu: Espera turno en la sala de espera.
+johandanie: Espera turno en la sala de espera.
+sofiaesthe: Espera turno en la sala de espera.
+luisurbano: Espera turno en la sala de espera.
+nabilartaz: Espera turno en la sala de espera.
+paulohenri: Espera turno en la sala de espera.
+marianagab: Espera turno en la sala de espera.
+luizantoni: Espera turno en la sala de espera.
+kerenhapuc: Espera turno en la sala de espera.
+claudiajoh: Espera turno en la sala de espera.
+mariabasil: Espera turno en la sala de espera.
+sulaymanes: Ha sido desconectado del juego.
+mohamedkar: Pasa a ser Jugador activo.
+gemamarcho: Espera turno en la sala de espera.
+nazihadepa: Espera turno en la sala de espera.
+ayleenbust: Espera turno en la sala de espera.
+leydyjohan: Espera turno en la sala de espera.
+dacianamai: Espera turno en la sala de espera.
+stefanieac: Espera turno en la sala de espera.
+noaraibarg: Espera turno en la sala de espera.
+nadiaaleja: Espera turno en la sala de espera.
+silviumiha: Ha sido desconectado del juego.
+mariaagapi: Pasa a ser Jugador activo.
+jonathanra: Espera turno en la sala de espera.
+davidnorma: Espera turno en la sala de espera.
+jakobgalil: Espera turno en la sala de espera.
+izharperez: Espera turno en la sala de espera.
+jorgeefrai: Espera turno en la sala de espera.
+manuelaluc: Espera turno en la sala de espera.
+gaudeliabo: Espera turno en la sala de espera.
+mariapiani: Espera turno en la sala de espera.
+josafatcho: Espera turno en la sala de espera.
+ivanricard: Espera turno en la sala de espera.
+yadiraalex: Espera turno en la sala de espera.
+georgevict: Espera turno en la sala de espera.
+federicoro: Espera turno en la sala de espera.
+mariafermi: Espera turno en la sala de espera.
+ceciliaisa: Espera turno en la sala de espera.
+eduardomat: Espera turno en la sala de espera.
+anaitzdoba: Espera turno en la sala de espera.
+zhihuicoed: Espera turno en la sala de espera.
+cristinasi: Espera turno en la sala de espera.
+mariusbogd: Espera turno en la sala de espera.
+bibianmont: Espera turno en la sala de espera.
+danamarian: Espera turno en la sala de espera.
+silviavane: Espera turno en la sala de espera.
+ivanamaria: Espera turno en la sala de espera.
+angellucia: Espera turno en la sala de espera.
+maryanafar: Espera turno en la sala de espera.
+marilzazaf: Espera turno en la sala de espera.
+blancalili: Espera turno en la sala de espera.
+marialiria: Espera turno en la sala de espera.
+dumitrubog: Espera turno en la sala de espera.
+florinionu: Espera turno en la sala de espera.
+jonatanman: Espera turno en la sala de espera.
+nicolasgui: Espera turno en la sala de espera.
+paulaflore: Espera turno en la sala de espera.
+aliciabele: Espera turno en la sala de espera.
+davidgeoff: Espera turno en la sala de espera.
+sofiaeugen: Espera turno en la sala de espera.
+mohamedaly: Espera turno en la sala de espera.
+costelainc: Espera turno en la sala de espera.
+marioisrae: Ha sido desconectado del juego.
+irismargab: Pasa a ser Jugador activo.
+bogdangeor: Ha sido desconectado del juego.
+juangenaro: Pasa a ser Jugador activo.
+dinoaviles: Espera turno en la sala de espera.
+meritxelll: Espera turno en la sala de espera.
+ioneliapol: Espera turno en la sala de espera.
+amaliaenca: Ha sido desconectado del juego.
+keithricha: Pasa a ser Jugador activo.
+iharcajide: Ha sido desconectado del juego.
+blancajuli: Pasa a ser Jugador activo.
+abrahamjes: Espera turno en la sala de espera.
+omaymacean: Ha sido desconectado del juego.
+aatikalope: Pasa a ser Jugador activo.
+abiliopobe: Espera turno en la sala de espera.
+cristianle: Espera turno en la sala de espera.
+elsaveroni: Espera turno en la sala de espera.
+mariayesic: Espera turno en la sala de espera.
+madihatarr: Espera turno en la sala de espera.
+baudiliove: Espera turno en la sala de espera.
+dannysanti: Espera turno en la sala de espera.
+robertojua: Ha sido desconectado del juego.
+manuelaros: Pasa a ser Jugador activo.
+aureliamih: Espera turno en la sala de espera.
+jorgeenriq: Espera turno en la sala de espera.
+mouhcinard: Espera turno en la sala de espera.
+mariaguaci: Espera turno en la sala de espera.
+hectorrica: Espera turno en la sala de espera.
+lukacruell: Espera turno en la sala de espera.
+felipejuli: Espera turno en la sala de espera.
+gilbertofr: Ha sido desconectado del juego.
+hirampatel: Pasa a ser Jugador activo.
+andresgerm: Espera turno en la sala de espera.
+pierrerost: Espera turno en la sala de espera.
+raulanibal: Espera turno en la sala de espera.
+marioluisb: Espera turno en la sala de espera.
+alexisjose: Espera turno en la sala de espera.
+angelmaria: Espera turno en la sala de espera.
+marianatac: Espera turno en la sala de espera.
+carmenazuc: Espera turno en la sala de espera.
+darwinmaur: Espera turno en la sala de espera.
+mariasarai: Espera turno en la sala de espera.
+sandrapila: Espera turno en la sala de espera.
+nasreddine: Espera turno en la sala de espera.
+juanasofia: Ha sido desconectado del juego.
+gregorioma: Pasa a ser Jugador activo.
+pablomaxim: Espera turno en la sala de espera.
+dianasofia: Espera turno en la sala de espera.
+carmenalmu: Espera turno en la sala de espera.
+evajesusbo: Espera turno en la sala de espera.
+mirianpila: Espera turno en la sala de espera.
+robertopab: Espera turno en la sala de espera.
+milagrosro: Espera turno en la sala de espera.
+joseinigod: Espera turno en la sala de espera.
+mohamedkar: Ha sido desconectado del juego.
+anielaheri: Pasa a ser Jugador activo.
+angelsergioviqu: Espera turno en la sala de espera.
+leyanisses: Espera turno en la sala de espera.
+cristinaso: Espera turno en la sala de espera.
+mariusgaci: Espera turno en la sala de espera.
+emigdiovil: Espera turno en la sala de espera.
+angelaceci: Espera turno en la sala de espera.
+cristiandu: Espera turno en la sala de espera.
+wladimiroc: Espera turno en la sala de espera.
+andrewchri: Espera turno en la sala de espera.
+mariaayupa: Espera turno en la sala de espera.
+liercarnal: Espera turno en la sala de espera.
+florinmari: Espera turno en la sala de espera.
+sandramile: Espera turno en la sala de espera.
+fabiandari: Espera turno en la sala de espera.
+heinzwilhe: Espera turno en la sala de espera.
+eligaraiko: Espera turno en la sala de espera.
+jannebombi: Espera turno en la sala de espera.
+nachoreiri: Espera turno en la sala de espera.
+abderraham: Espera turno en la sala de espera.
+davidluiss: Espera turno en la sala de espera.
+jorgemarce: Espera turno en la sala de espera.
+yadiraeliz: Espera turno en la sala de espera.
+nuriajosef: Espera turno en la sala de espera.
+friederike: Espera turno en la sala de espera.
+ireneesthe: Espera turno en la sala de espera.
+abdellatif: Espera turno en la sala de espera.
+elenapatri: Espera turno en la sala de espera.
+kekecabosm: Espera turno en la sala de espera.
+gustavoani: Espera turno en la sala de espera.
+amparopila: Espera turno en la sala de espera.
+frederikca: Espera turno en la sala de espera.
+clementeca: Espera turno en la sala de espera.
+virginiael: Espera turno en la sala de espera.
+antoniohectorpr: Espera turno en la sala de espera.
+howardjohn: Espera turno en la sala de espera.
+dumitruioa: Espera turno en la sala de espera.
+gustavofer: Espera turno en la sala de espera.
+josafatlos: Espera turno en la sala de espera.
+beatrizinm: Espera turno en la sala de espera.
+nicolasern: Espera turno en la sala de espera.
+jesusmateo: Espera turno en la sala de espera.
+stoyanivan: Espera turno en la sala de espera.
+joanagench: Espera turno en la sala de espera.
+marilenasi: Espera turno en la sala de espera.
+galileosar: Espera turno en la sala de espera.
+luciateres: Espera turno en la sala de espera.
+marianaali: Espera turno en la sala de espera.
+aurelmariu: Espera turno en la sala de espera.
+odilefarra: Espera turno en la sala de espera.
+bernabeaal: Espera turno en la sala de espera.
+mariaagapi: Ha sido desconectado del juego.
+xiaojuanel: Pasa a ser Jugador activo.
+manuelgonz: Espera turno en la sala de espera.
+vasilemari: Espera turno en la sala de espera.
+jenniferca: Espera turno en la sala de espera.
+dalalandre: Espera turno en la sala de espera.
+marcelaroc: Espera turno en la sala de espera.
+chenmarcil: Espera turno en la sala de espera.
+juliaedith: Espera turno en la sala de espera.
+andresmati: Espera turno en la sala de espera.
+mariaidali: Espera turno en la sala de espera.
+inmaculadaizeta: Espera turno en la sala de espera.
+luiseduard: Espera turno en la sala de espera.
+letitiadua: Espera turno en la sala de espera.
+felisapila: Espera turno en la sala de espera.
+balderojaa: Espera turno en la sala de espera.
+conceiÃ§aos: Espera turno en la sala de espera.
+adibgarcia: Espera turno en la sala de espera.
+cristinapa: Espera turno en la sala de espera.
+lifengarro: Espera turno en la sala de espera.
+mariyacoll: Espera turno en la sala de espera.
+rolandojav: Espera turno en la sala de espera.
+peterheinz: Espera turno en la sala de espera.
+karenbeatr: Espera turno en la sala de espera.
+liviudepab: Espera turno en la sala de espera.
+stoyankake: Espera turno en la sala de espera.
+haroldocab: Espera turno en la sala de espera.
+juanoctavi: Espera turno en la sala de espera.
+simonamire: Espera turno en la sala de espera.
+joelalexan: Espera turno en la sala de espera.
+soniavanes: Espera turno en la sala de espera.
+joaquinram: Espera turno en la sala de espera.
+irismargab: Ha sido desconectado del juego.
+luftoldeca: Pasa a ser Jugador activo.
+sharonnico: Espera turno en la sala de espera.
+elederdela: Espera turno en la sala de espera.
+juangenaro: Ha sido desconectado del juego.
+rosamartin: Pasa a ser Jugador activo.
+gilsonasum: Espera turno en la sala de espera.
+sarajuanah: Espera turno en la sala de espera.
+tomaseduar: Espera turno en la sala de espera.
+jhonedward: Espera turno en la sala de espera.
+miguelaito: Espera turno en la sala de espera.
+inasaucejo: Espera turno en la sala de espera.
+anelorevir: Espera turno en la sala de espera.
+jaimenicol: Espera turno en la sala de espera.
+angelsergi: Espera turno en la sala de espera.
+keithricha: Ha sido desconectado del juego.
+javierigna: Pasa a ser Jugador activo.
+blancajuli: Ha sido desconectado del juego.
+sohaibgonz: Pasa a ser Jugador activo.
+aatikalope: Ha sido desconectado del juego.
+craigjohng: Pasa a ser Jugador activo.
+efidenciaf: Espera turno en la sala de espera.
+tebapuicaa: Espera turno en la sala de espera.
+albacaroli: Espera turno en la sala de espera.
+adrianamab: Espera turno en la sala de espera.
+carlotamar: Espera turno en la sala de espera.
+diegomauri: Espera turno en la sala de espera.
+mariamarta: Espera turno en la sala de espera.
+arsalanvil: Espera turno en la sala de espera.
+brighttrap: Espera turno en la sala de espera.
+dianaandre: Espera turno en la sala de espera.
+anapastora: Espera turno en la sala de espera.
+ingridcarm: Espera turno en la sala de espera.
+evaristoma: Espera turno en la sala de espera.
+manuelaros: Ha sido desconectado del juego.
+austinvill: Pasa a ser Jugador activo.
+ruteisabel: Espera turno en la sala de espera.
+wenceslaor: Espera turno en la sala de espera.
+bibigordal: Espera turno en la sala de espera.
+souhailaas: Espera turno en la sala de espera.
+dianamabel: Espera turno en la sala de espera.
+aylinbrese: Espera turno en la sala de espera.
+tonkajaurr: Espera turno en la sala de espera.
+mariallucp: Espera turno en la sala de espera.
+ofeliamari: Espera turno en la sala de espera.
+marialeida: Espera turno en la sala de espera.
+karlacrist: Espera turno en la sala de espera.
+josepmarcm: Espera turno en la sala de espera.
+danielabea: Espera turno en la sala de espera.
+lucfresnil: Espera turno en la sala de espera.
+hirampatel: Ha sido desconectado del juego.
+ilduaraagu: Pasa a ser Jugador activo.
+gregorioma: Ha sido desconectado del juego.
+khadoujaai: Pasa a ser Jugador activo.
+isolinaadr: Espera turno en la sala de espera.
+anielaheri: Ha sido desconectado del juego.
+marcoalexa: Pasa a ser Jugador activo.
+sirlenenor: Espera turno en la sala de espera.
+eugenygenc: Espera turno en la sala de espera.
+pilaralici: Espera turno en la sala de espera.
+joritzbela: Espera turno en la sala de espera.
+andreajane: Espera turno en la sala de espera.
+carolynjan: Espera turno en la sala de espera.
+antonioama: Espera turno en la sala de espera.
+abdenajior: Espera turno en la sala de espera.
+carolinael: Espera turno en la sala de espera.
+laurapaula: Espera turno en la sala de espera.
+vicenteraf: Espera turno en la sala de espera.
+xiaojuanel: Ha sido desconectado del juego.
+oumkaltoum: Pasa a ser Jugador activo.
+sachavilal: Espera turno en la sala de espera.
+siaraquisp: Espera turno en la sala de espera.
+karenloren: Espera turno en la sala de espera.
+luftoldeca: Ha sido desconectado del juego.
+arienadeem: Pasa a ser Jugador activo.
+adrianramo: Espera turno en la sala de espera.
+narjesrovi: Espera turno en la sala de espera.
+abdelkabir: Espera turno en la sala de espera.
+mayisauced: Espera turno en la sala de espera.
+adrianramongudi: Espera turno en la sala de espera.
+frankalexa: Espera turno en la sala de espera.
+pinodolore: Espera turno en la sala de espera.
+manuelgerm: Espera turno en la sala de espera.
+mansoursac: Espera turno en la sala de espera.
+sidahmeddi: Espera turno en la sala de espera.
+ambargolba: Espera turno en la sala de espera.
+mireyaalex: Espera turno en la sala de espera.
+johnnyedua: Espera turno en la sala de espera.
+sandramagd: Espera turno en la sala de espera.
+anaitziarc: Espera turno en la sala de espera.
+veronicama: Espera turno en la sala de espera.
+cristinama: Espera turno en la sala de espera.
+txominmarr: Espera turno en la sala de espera.
+andresdari: Espera turno en la sala de espera.
+elenadiana: Espera turno en la sala de espera.
+veronicana: Espera turno en la sala de espera.
+bouabdalla: Espera turno en la sala de espera.
+axelgabrie: Espera turno en la sala de espera.
+franciscoc: Espera turno en la sala de espera.
+petergordo: Espera turno en la sala de espera.
+belindaisa: Espera turno en la sala de espera.
+higinidegr: Espera turno en la sala de espera.
+refugiomus: Espera turno en la sala de espera.
+izanmanuel: Espera turno en la sala de espera.
+roberterne: Espera turno en la sala de espera.
+carmenmarg: Espera turno en la sala de espera.
+luzastridc: Espera turno en la sala de espera.
+silviaevam: Espera turno en la sala de espera.
+meihuaamel: Espera turno en la sala de espera.
+ivankageor: Espera turno en la sala de espera.
+ruthannelo: Espera turno en la sala de espera.
+adrianavan: Espera turno en la sala de espera.
+rosamartin: Ha sido desconectado del juego.
+jefryduran: Pasa a ser Jugador activo.
+todorkaest: Espera turno en la sala de espera.
+leanneamas: Espera turno en la sala de espera.
+javierigna: Ha sido desconectado del juego.
+rutnoemimo: Pasa a ser Jugador activo.
+muhammadus: Espera turno en la sala de espera.
+susanamari: Espera turno en la sala de espera.
+analiaarci: Espera turno en la sala de espera.
+yasirnaimi: Espera turno en la sala de espera.
+sohaibgonz: Ha sido desconectado del juego.
+souhaibmed: Pasa a ser Jugador activo.
+sergiudanq: Espera turno en la sala de espera.
+fredypatri: Espera turno en la sala de espera.
+danieldami: Espera turno en la sala de espera.
+victorpabl: Espera turno en la sala de espera.
+zafirareta: Espera turno en la sala de espera.
+marianamir: Espera turno en la sala de espera.
+julylimpia: Espera turno en la sala de espera.
+nievesanto: Espera turno en la sala de espera.
+cesaralfre: Espera turno en la sala de espera.
+anapetraba: Espera turno en la sala de espera.
+adrianajes: Espera turno en la sala de espera.
+elenamanue: Espera turno en la sala de espera.
+pedrovicen: Espera turno en la sala de espera.
+hectorsalv: Espera turno en la sala de espera.
+enzarahaou: Espera turno en la sala de espera.
+evedastomo: Espera turno en la sala de espera.
+eduardgeor: Espera turno en la sala de espera.
+craigjohng: Ha sido desconectado del juego.
+luzestelam: Pasa a ser Jugador activo.
+alvaraalqu: Espera turno en la sala de espera.
+idiliagonz: Espera turno en la sala de espera.
+austinvill: Ha sido desconectado del juego.
+vicentaros: Pasa a ser Jugador activo.
+ilduaraagu: Ha sido desconectado del juego.
+coraimaech: Pasa a ser Jugador activo.
+yvonevarza: Espera turno en la sala de espera.
+emmanuelle: Espera turno en la sala de espera.
+danielfran: Espera turno en la sala de espera.
+markooriza: Espera turno en la sala de espera.
+stefanicag: Espera turno en la sala de espera.
+senoviaste: Espera turno en la sala de espera.
+mariaflori: Espera turno en la sala de espera.
+paulafranc: Espera turno en la sala de espera.
+nicolaesil: Espera turno en la sala de espera.
+raduiulian: Espera turno en la sala de espera.
+luispedrom: Espera turno en la sala de espera.
+salomiapan: Espera turno en la sala de espera.
+denessaddi: Espera turno en la sala de espera.
+khadoujaai: Ha sido desconectado del juego.
+fernandoal: Pasa a ser Jugador activo.
+constantin: Espera turno en la sala de espera.
+joxemariaf: Espera turno en la sala de espera.
+robinaserr: Espera turno en la sala de espera.
+mariaalmud: Espera turno en la sala de espera.
+nataliaang: Espera turno en la sala de espera.
+eladiojose: Espera turno en la sala de espera.
+marcoalexa: Ha sido desconectado del juego.
+noeliabele: Pasa a ser Jugador activo.
+olgaelizab: Espera turno en la sala de espera.
+linusberna: Espera turno en la sala de espera.
+maximinoma: Espera turno en la sala de espera.
+gurnammass: Espera turno en la sala de espera.
+franciscof: Espera turno en la sala de espera.
+toribiarep: Espera turno en la sala de espera.
+ricardjose: Espera turno en la sala de espera.
+kevinleona: Espera turno en la sala de espera.
+doloresleo: Espera turno en la sala de espera.
+anaalejand: Espera turno en la sala de espera.
+sarahvicto: Espera turno en la sala de espera.
+alfredoosc: Espera turno en la sala de espera.
+javierandr: Espera turno en la sala de espera.
+noaraibarguchif: Espera turno en la sala de espera.
+andrescarl: Espera turno en la sala de espera.
+oumkaltoum: Ha sido desconectado del juego.
+vladmihais: Pasa a ser Jugador activo.
+denicebelk: Espera turno en la sala de espera.
+ananerearu: Espera turno en la sala de espera.
+arienadeem: Ha sido desconectado del juego.
+gonzaloger: Pasa a ser Jugador activo.
+dakotacasa: Espera turno en la sala de espera.
+angelaesth: Espera turno en la sala de espera.
+velislavbo: Espera turno en la sala de espera.
+silvavalde: Espera turno en la sala de espera.
+alvaroraul: Espera turno en la sala de espera.
+miriemcast: Espera turno en la sala de espera.
+jefryduran: Ha sido desconectado del juego.
+davidivans: Pasa a ser Jugador activo.
+reduanalei: Espera turno en la sala de espera.
+carmemaria: Espera turno en la sala de espera.
+virginieme: Espera turno en la sala de espera.
+cristianja: Espera turno en la sala de espera.
+josejonata: Espera turno en la sala de espera.
+antoniapaz: Espera turno en la sala de espera.
+sheilaisab: Espera turno en la sala de espera.
+anastasarr: Espera turno en la sala de espera.
+elisadolor: Espera turno en la sala de espera.
+audeliaben: Espera turno en la sala de espera.
+miguelgera: Espera turno en la sala de espera.
+beniciosai: Espera turno en la sala de espera.
+naouelcari: Espera turno en la sala de espera.
+rutnoemimo: Ha sido desconectado del juego.
+souhailahu: Pasa a ser Jugador activo.
+nerijusmir: Espera turno en la sala de espera.
+juliamatil: Espera turno en la sala de espera.
+gloriaadri: Espera turno en la sala de espera.
+josephloui: Espera turno en la sala de espera.
+souhaibmed: Ha sido desconectado del juego.
+mariaasunc: Pasa a ser Jugador activo.
+darwinenri: Espera turno en la sala de espera.
+miguelrica: Espera turno en la sala de espera.
+soniamarit: Espera turno en la sala de espera.
+marioloren: Espera turno en la sala de espera.
+bernardusu: Espera turno en la sala de espera.
+viviananoe: Espera turno en la sala de espera.
+geovannisa: Espera turno en la sala de espera.
+luzestelam: Ha sido desconectado del juego.
+pacianomat: Pasa a ser Jugador activo.
+albertosal: Espera turno en la sala de espera.
+vicentaros: Ha sido desconectado del juego.
+menanabena: Pasa a ser Jugador activo.
+eduardohec: Espera turno en la sala de espera.
+yolandavir: Espera turno en la sala de espera.
+manjinderf: Espera turno en la sala de espera.
+mariamonic: Espera turno en la sala de espera.
+junyuo'don: Espera turno en la sala de espera.
+aimarbotea: Espera turno en la sala de espera.
+pablomateo: Espera turno en la sala de espera.
+myrabarbel: Espera turno en la sala de espera.
+danielezub: Espera turno en la sala de espera.
+justacarme: Espera turno en la sala de espera.
+naroaceret: Espera turno en la sala de espera.
+socainaadd: Espera turno en la sala de espera.
+baldomeroj: Espera turno en la sala de espera.
+laurarosap: Espera turno en la sala de espera.
+oscartomas: Espera turno en la sala de espera.
+doringabri: Espera turno en la sala de espera.
+angelamarg: Espera turno en la sala de espera.
+deboracarm: Espera turno en la sala de espera.
+fidelalber: Espera turno en la sala de espera.
+margaritaa: Espera turno en la sala de espera.
+josefarita: Espera turno en la sala de espera.
+christiann: Espera turno en la sala de espera.
+sonianoemi: Espera turno en la sala de espera.
+angelramir: Espera turno en la sala de espera.
+coraimaech: Ha sido desconectado del juego.
+marouandao: Pasa a ser Jugador activo.
+nancycorom: Espera turno en la sala de espera.
+tanausuais: Espera turno en la sala de espera.
+mariaberth: Espera turno en la sala de espera.
+fernandoal: Ha sido desconectado del juego.
+wolfgangwa: Pasa a ser Jugador activo.
+florentina: Espera turno en la sala de espera.
+aimegrecom: Espera turno en la sala de espera.
+noeliabele: Ha sido desconectado del juego.
+gladysalic: Pasa a ser Jugador activo.
+ninoskacos: Espera turno en la sala de espera.
+aitanamari: Espera turno en la sala de espera.
+miguelmanu: Espera turno en la sala de espera.
+mariabenja: Espera turno en la sala de espera.
+purisimaco: Espera turno en la sala de espera.
+adrianaele: Espera turno en la sala de espera.
+justinalex: Espera turno en la sala de espera.
+petrisorsa: Espera turno en la sala de espera.
+edgarricar: Espera turno en la sala de espera.
+hugogabrie: Espera turno en la sala de espera.
+irenemarin: Espera turno en la sala de espera.
+ricardinap: Espera turno en la sala de espera.
+josefasoni: Espera turno en la sala de espera.
+georgianar: Espera turno en la sala de espera.
+christianj: Espera turno en la sala de espera.
+ceciliabri: Espera turno en la sala de espera.
+llucgarabo: Espera turno en la sala de espera.
+derekthoma: Espera turno en la sala de espera.
+florinaadr: Espera turno en la sala de espera.
+luisvicent: Espera turno en la sala de espera.
+neiljohnbi: Espera turno en la sala de espera.
+marcelinae: Espera turno en la sala de espera.
+rosacaroli: Espera turno en la sala de espera.
+juanemilia: Espera turno en la sala de espera.
+charifanie: Espera turno en la sala de espera.
+johnnyandr: Espera turno en la sala de espera.
+doramariar: Espera turno en la sala de espera.
+luzestrell: Espera turno en la sala de espera.
+francelina: Espera turno en la sala de espera.
+elmiloudiu: Espera turno en la sala de espera.
+luciacarme: Espera turno en la sala de espera.
+mavismarzo: Espera turno en la sala de espera.
+mariafelic: Espera turno en la sala de espera.
+iluminadam: Espera turno en la sala de espera.
+barbaraand: Espera turno en la sala de espera.
+terencedav: Espera turno en la sala de espera.
+oscarismae: Espera turno en la sala de espera.
+biancadeni: Espera turno en la sala de espera.
+oscarfelip: Espera turno en la sala de espera.
+marleengas: Espera turno en la sala de espera.
+ugnechambe: Espera turno en la sala de espera.
+antonioeus: Espera turno en la sala de espera.
+vladmihais: Ha sido desconectado del juego.
+annemargar: Pasa a ser Jugador activo.
+rodrigoalb: Espera turno en la sala de espera.
+leisyelala: Espera turno en la sala de espera.
+darinkamai: Espera turno en la sala de espera.
+edortaaspe: Espera turno en la sala de espera.
+pilarvanes: Espera turno en la sala de espera.
+franciscaj: Espera turno en la sala de espera.
+williamric: Espera turno en la sala de espera.
+gonzaloger: Ha sido desconectado del juego.
+guillemjoa: Pasa a ser Jugador activo.
+davidivans: Ha sido desconectado del juego.
+idiatoumig: Pasa a ser Jugador activo.
+souhailahu: Ha sido desconectado del juego.
+rimadosuna: Pasa a ser Jugador activo.
+josemariac: Espera turno en la sala de espera.
+sonataroib: Espera turno en la sala de espera.
+elenanarci: Espera turno en la sala de espera.
+naturapala: Espera turno en la sala de espera.
+cesaralons: Espera turno en la sala de espera.
+davidrober: Espera turno en la sala de espera.
+jaimejulia: Espera turno en la sala de espera.
+toribiapul: Espera turno en la sala de espera.
+dayanalizb: Espera turno en la sala de espera.
+berthaines: Espera turno en la sala de espera.
+mariaasunc: Ha sido desconectado del juego.
+luishomero: Pasa a ser Jugador activo.
+timurretam: Espera turno en la sala de espera.
+doloresmar: Espera turno en la sala de espera.
+andresguil: Espera turno en la sala de espera.
+anamariaje: Espera turno en la sala de espera.
+roderickla: Espera turno en la sala de espera.
+fredyferna: Espera turno en la sala de espera.
+celiajosef: Espera turno en la sala de espera.
+joelcarlos: Espera turno en la sala de espera.
+wilsongeov: Espera turno en la sala de espera.
+asensiosab: Espera turno en la sala de espera.
+domingosro: Espera turno en la sala de espera.
+terryjohnm: Espera turno en la sala de espera.
+vicentefab: Espera turno en la sala de espera.
+rosayoland: Espera turno en la sala de espera.
+sarahisabe: Espera turno en la sala de espera.
+krzysztofc: Espera turno en la sala de espera.
+lorenzoalb: Espera turno en la sala de espera.
+trevorjame: Espera turno en la sala de espera.
+mariateodo: Espera turno en la sala de espera.
+nestorosca: Espera turno en la sala de espera.
+brianwilli: Espera turno en la sala de espera.
+elenaolgam: Espera turno en la sala de espera.
+alvaroedua: Espera turno en la sala de espera.
+manuelbern: Espera turno en la sala de espera.
+carlosrafa: Espera turno en la sala de espera.
+mihailaure: Espera turno en la sala de espera.
+mariepierr: Espera turno en la sala de espera.
+sebastianm: Espera turno en la sala de espera.
+josebasili: Espera turno en la sala de espera.
+mariaalida: Espera turno en la sala de espera.
+mamadoucel: Espera turno en la sala de espera.
+santiagoag: Espera turno en la sala de espera.
+naseercasa: Espera turno en la sala de espera.
+hadrianlie: Espera turno en la sala de espera.
+linavaness: Espera turno en la sala de espera.
+nayelicarm: Espera turno en la sala de espera.
+pacianomat: Ha sido desconectado del juego.
+catalinacr: Pasa a ser Jugador activo.
+graciellav: Espera turno en la sala de espera.
+irenedolor: Espera turno en la sala de espera.
+juanaandre: Espera turno en la sala de espera.
+joanvicenÃ§: Espera turno en la sala de espera.
+rogereduar: Espera turno en la sala de espera.
+joseperfec: Espera turno en la sala de espera.
+rosavicent: Espera turno en la sala de espera.
+robertmari: Espera turno en la sala de espera.
+tatianapat: Espera turno en la sala de espera.
+cameliacri: Espera turno en la sala de espera.
+hermencina: Espera turno en la sala de espera.
+ruthcarmen: Espera turno en la sala de espera.
+menanabena: Ha sido desconectado del juego.
+aiyongwalo: Pasa a ser Jugador activo.
+blancayola: Espera turno en la sala de espera.
+angelojose: Espera turno en la sala de espera.
+williamfre: Espera turno en la sala de espera.
+arseniygui: Espera turno en la sala de espera.
+saikouamor: Espera turno en la sala de espera.
+patriciolu: Espera turno en la sala de espera.
+sallycorde: Espera turno en la sala de espera.
+monicaroci: Espera turno en la sala de espera.
+luzauroram: Espera turno en la sala de espera.
+wilsongust: Espera turno en la sala de espera.
+bjorgmouzo: Espera turno en la sala de espera.
+costantino: Espera turno en la sala de espera.
+anaralucas: Espera turno en la sala de espera.
+pablocruzq: Espera turno en la sala de espera.
+nenedelpas: Espera turno en la sala de espera.
+xuehuacarr: Espera turno en la sala de espera.
+marianorma: Espera turno en la sala de espera.
+aliciaasun: Espera turno en la sala de espera.
+ludovicope: Espera turno en la sala de espera.
+evgueniama: Espera turno en la sala de espera.
+suleimanra: Espera turno en la sala de espera.
+micaelnegr: Espera turno en la sala de espera.
+gladysespe: Espera turno en la sala de espera.
+danielpasc: Espera turno en la sala de espera.
+santiagopa: Espera turno en la sala de espera.
+juanreyesv: Espera turno en la sala de espera.
+ionelavero: Espera turno en la sala de espera.
+paulamarce: Espera turno en la sala de espera.
+rubenfranc: Espera turno en la sala de espera.
+teodoradri: Espera turno en la sala de espera.
+eduardomar: Espera turno en la sala de espera.
+marouandao: Ha sido desconectado del juego.
+lucasvicen: Pasa a ser Jugador activo.
+muriloiber: Espera turno en la sala de espera.
+gicufumana: Espera turno en la sala de espera.
+doloresmca: Espera turno en la sala de espera.
+doloreselv: Espera turno en la sala de espera.
+cristinage: Espera turno en la sala de espera.
+angelrodri: Espera turno en la sala de espera.
+nicolestep: Espera turno en la sala de espera.
+mayorosuei: Espera turno en la sala de espera.
+loganoltea: Espera turno en la sala de espera.
+mariabalta: Espera turno en la sala de espera.
+marianocar: Espera turno en la sala de espera.
+franciscom: Espera turno en la sala de espera.
+jetzabelne: Espera turno en la sala de espera.
+santiagobe: Espera turno en la sala de espera.
+erikaaleja: Espera turno en la sala de espera.
+joaquinign: Espera turno en la sala de espera.
+joyretamin: Espera turno en la sala de espera.
+carloserne: Espera turno en la sala de espera.
+circuncisi: Espera turno en la sala de espera.
+paulmihaim: Espera turno en la sala de espera.
+catherinem: Espera turno en la sala de espera.
+kepamirena: Espera turno en la sala de espera.
+rogereduardopan: Espera turno en la sala de espera.
+itaiaranop: Espera turno en la sala de espera.
+ingamelone: Espera turno en la sala de espera.
+luzgemaall: Espera turno en la sala de espera.
+alejandroh: Espera turno en la sala de espera.
+angelesjos: Espera turno en la sala de espera.
+angelapila: Espera turno en la sala de espera.
+robertkenn: Espera turno en la sala de espera.
+jesusmarti: Espera turno en la sala de espera.
+juaquinesp: Espera turno en la sala de espera.
+guillermomartin: Espera turno en la sala de espera.
+sagrariopi: Espera turno en la sala de espera.
+anapiedadc: Espera turno en la sala de espera.
+miguelarma: Espera turno en la sala de espera.
+toudababoi: Espera turno en la sala de espera.
+mateaqualq: Espera turno en la sala de espera.
+nuriapinod: Espera turno en la sala de espera.
+mariapilar: Espera turno en la sala de espera.
+claraalexa: Espera turno en la sala de espera.
+farhatcurt: Espera turno en la sala de espera.
+fankatexid: Espera turno en la sala de espera.
+danielflor: Espera turno en la sala de espera.
+wolfgangwa: Ha sido desconectado del juego.
+adargomafo: Pasa a ser Jugador activo.
+nicolepatr: Espera turno en la sala de espera.
+aishaalexa: Espera turno en la sala de espera.
+matiasdami: Espera turno en la sala de espera.
+jessicajac: Espera turno en la sala de espera.
+gladysalic: Ha sido desconectado del juego.
+alejandror: Pasa a ser Jugador activo.
+annemargar: Ha sido desconectado del juego.
+maneazcona: Pasa a ser Jugador activo.
+veronicara: Espera turno en la sala de espera.
+guillemjoa: Ha sido desconectado del juego.
+luismariab: Pasa a ser Jugador activo.
+marcogonza: Espera turno en la sala de espera.
+idiatoumig: Ha sido desconectado del juego.
+silmaraorj: Pasa a ser Jugador activo.
+inescaroli: Espera turno en la sala de espera.
+everthokoy: Espera turno en la sala de espera.
+chabierpat: Espera turno en la sala de espera.
+josejenaro: Espera turno en la sala de espera.
+dianapauli: Espera turno en la sala de espera.
+noemirocio: Espera turno en la sala de espera.
+silviaevac: Espera turno en la sala de espera.
+daramarias: Espera turno en la sala de espera.
+ricardoces: Espera turno en la sala de espera.
+jeanchrist: Espera turno en la sala de espera.
+eskarnesan: Espera turno en la sala de espera.
+gillianmar: Espera turno en la sala de espera.
+herminioja: Espera turno en la sala de espera.
+fatoumabue: Espera turno en la sala de espera.
+jinmeidurb: Espera turno en la sala de espera.
+rimadosuna: Ha sido desconectado del juego.
+mariavalva: Pasa a ser Jugador activo.
+arturorafa: Espera turno en la sala de espera.
+stefanbogd: Espera turno en la sala de espera.
+rafalbroto: Espera turno en la sala de espera.
+miquelazhu: Espera turno en la sala de espera.
+illancarda: Espera turno en la sala de espera.
+federicomi: Espera turno en la sala de espera.
+abdoukarim: Espera turno en la sala de espera.
+maiconsabi: Espera turno en la sala de espera.
+catalinabe: Espera turno en la sala de espera.
+luishomero: Ha sido desconectado del juego.
+marcaureli: Pasa a ser Jugador activo.
+catalinacr: Ha sido desconectado del juego.
+gaofenglak: Pasa a ser Jugador activo.
+adolfofran: Espera turno en la sala de espera.
+normaester: Espera turno en la sala de espera.
+aiyongwalo: Ha sido desconectado del juego.
+anamariacr: Pasa a ser Jugador activo.
+cidaliamar: Espera turno en la sala de espera.
+lucasvicen: Ha sido desconectado del juego.
+tobybahida: Pasa a ser Jugador activo.
+saddikdiab: Espera turno en la sala de espera.
+purificaci: Espera turno en la sala de espera.
+angelmodes: Espera turno en la sala de espera.
+lucasmarti: Espera turno en la sala de espera.
+aliciaampa: Espera turno en la sala de espera.
+lidiamarca: Espera turno en la sala de espera.
+oliwiatrul: Espera turno en la sala de espera.
+stoykaalmo: Espera turno en la sala de espera.
+domingoagu: Espera turno en la sala de espera.
+lilianacar: Espera turno en la sala de espera.
+teresaasun: Espera turno en la sala de espera.
+adargomafo: Ha sido desconectado del juego.
+slimancaud: Pasa a ser Jugador activo.
+evilioelkh: Espera turno en la sala de espera.
+liviaelena: Espera turno en la sala de espera.
+claudiamir: Espera turno en la sala de espera.
+alejandror: Ha sido desconectado del juego.
+carmenioan: Pasa a ser Jugador activo.
+mariafulge: Espera turno en la sala de espera.
+josepaulin: Espera turno en la sala de espera.
+maneazcona: Ha sido desconectado del juego.
+reyesneira: Pasa a ser Jugador activo.
+franciszek: Espera turno en la sala de espera.
+alysonallo: Espera turno en la sala de espera.
+cristianeg: Espera turno en la sala de espera.
+luismariab: Ha sido desconectado del juego.
+floramaria: Pasa a ser Jugador activo.
+iuliuscuti: Espera turno en la sala de espera.
+edelinanit: Espera turno en la sala de espera.
+evdochiaca: Espera turno en la sala de espera.
+corpusxico: Espera turno en la sala de espera.
+teresaglor: Espera turno en la sala de espera.
+iljadelaja: Espera turno en la sala de espera.
+fabianvice: Espera turno en la sala de espera.
+silmaraorj: Ha sido desconectado del juego.
+patriciado: Pasa a ser Jugador activo.
+reniruizde: Espera turno en la sala de espera.
+gustavoadr: Espera turno en la sala de espera.
+luisantons: Espera turno en la sala de espera.
+juanlorenz: Espera turno en la sala de espera.
+mariavalva: Ha sido desconectado del juego.
+montielsel: Pasa a ser Jugador activo.
+iordankama: Espera turno en la sala de espera.
+seppojuhan: Espera turno en la sala de espera.
+lauraanton: Espera turno en la sala de espera.
+radugheorg: Espera turno en la sala de espera.
+sebastiana: Espera turno en la sala de espera.
+carmenelis: Espera turno en la sala de espera.
+yifancupei: Espera turno en la sala de espera.
+mariaaquil: Espera turno en la sala de espera.
+marcaureli: Ha sido desconectado del juego.
+nabiaelkha: Pasa a ser Jugador activo.
+mariadores: Espera turno en la sala de espera.
+artemizaca: Espera turno en la sala de espera.
+johnkevinf: Espera turno en la sala de espera.
+gaetanirau: Espera turno en la sala de espera.
+fernandoma: Espera turno en la sala de espera.
+guidoferna: Espera turno en la sala de espera.
+williamtho: Espera turno en la sala de espera.
+yousrimuno: Espera turno en la sala de espera.
+neyzanbens: Espera turno en la sala de espera.
+franciscog: Espera turno en la sala de espera.
+mariabarka: Espera turno en la sala de espera.
+mariaestiv: Espera turno en la sala de espera.
+rocioalbac: Espera turno en la sala de espera.
+inssafgoma: Espera turno en la sala de espera.
+amandaluci: Espera turno en la sala de espera.
+cesarangel: Espera turno en la sala de espera.
+nataliaale: Espera turno en la sala de espera.
+gladyscons: Espera turno en la sala de espera.
+gemapatric: Espera turno en la sala de espera.
+pilarisabe: Espera turno en la sala de espera.
+joninigogr: Espera turno en la sala de espera.
+robertadam: Espera turno en la sala de espera.
+gaofenglak: Ha sido desconectado del juego.
+lutgardodo: Pasa a ser Jugador activo.
+walterrene: Espera turno en la sala de espera.
+veronicaro: Espera turno en la sala de espera.
+xinyankadi: Espera turno en la sala de espera.
+domingoang: Espera turno en la sala de espera.
+deanmijear: Espera turno en la sala de espera.
+anamariacr: Ha sido desconectado del juego.
+karinegraj: Pasa a ser Jugador activo.
+iulianaand: Espera turno en la sala de espera.
+frankmicha: Espera turno en la sala de espera.
+rafaelapil: Espera turno en la sala de espera.
+esthervero: Espera turno en la sala de espera.
+tobybahida: Ha sido desconectado del juego.
+claudetata: Pasa a ser Jugador activo.
+pierangelo: Espera turno en la sala de espera.
+anapazavel: Espera turno en la sala de espera.
+narcisoman: Espera turno en la sala de espera.
+jenylistas: Espera turno en la sala de espera.
+jeffersons: Espera turno en la sala de espera.
+amalfilapo: Espera turno en la sala de espera.
+carolinaes: Espera turno en la sala de espera.
+fengzhuzar: Espera turno en la sala de espera.
+rebecaalex: Espera turno en la sala de espera.
+lauraameli: Espera turno en la sala de espera.
+baltasaras: Espera turno en la sala de espera.
+mercedesco: Espera turno en la sala de espera.
+mariselael: Espera turno en la sala de espera.
+mirenmaite: Espera turno en la sala de espera.
+slimancaud: Ha sido desconectado del juego.
+pierremari: Pasa a ser Jugador activo.
+lucasbenja: Espera turno en la sala de espera.
+artemimere: Espera turno en la sala de espera.
+andreacata: Espera turno en la sala de espera.
+pacozorife: Espera turno en la sala de espera.
+mariaseren: Espera turno en la sala de espera.
+nicoleeste: Espera turno en la sala de espera.
+robertocar: Espera turno en la sala de espera.
+yuniabucha: Espera turno en la sala de espera.
+cristianas: Espera turno en la sala de espera.
+josepvicen: Espera turno en la sala de espera.
+carmenioan: Ha sido desconectado del juego.
+ionelacori: Pasa a ser Jugador activo.
+guillermom: Espera turno en la sala de espera.
+reyesneira: Ha sido desconectado del juego.
+benignaazz: Pasa a ser Jugador activo.
+veremundol: Espera turno en la sala de espera.
+tsetsaalam: Espera turno en la sala de espera.
+zakiyaagui: Espera turno en la sala de espera.
+beatrizpat: Espera turno en la sala de espera.
+anthonyjos: Espera turno en la sala de espera.
+jabrangigo: Espera turno en la sala de espera.
+neluflorin: Espera turno en la sala de espera.
+ebabailamo: Espera turno en la sala de espera.
+raulcristi: Espera turno en la sala de espera.
+vasilegabr: Espera turno en la sala de espera.
+fernandoca: Espera turno en la sala de espera.
+isabelniev: Espera turno en la sala de espera.
+quiterioco: Espera turno en la sala de espera.
+lizpaolabo: Espera turno en la sala de espera.
+markjohnam: Espera turno en la sala de espera.
+danielhumb: Espera turno en la sala de espera.
+nelidarosa: Espera turno en la sala de espera.
+hamzaaretx: Espera turno en la sala de espera.
+joseraultr: Espera turno en la sala de espera.
+clementamo: Espera turno en la sala de espera.
+luiscipria: Espera turno en la sala de espera.
+brendamary: Espera turno en la sala de espera.
+isaiasanto: Espera turno en la sala de espera.
+floramaria: Ha sido desconectado del juego.
+yolandanie: Pasa a ser Jugador activo.
+veronicalu: Espera turno en la sala de espera.
+seanmichae: Espera turno en la sala de espera.
+joseremedi: Espera turno en la sala de espera.
+inespatric: Espera turno en la sala de espera.
+ramutesuei: Espera turno en la sala de espera.
+patriciado: Ha sido desconectado del juego.
+paolamarce: Pasa a ser Jugador activo.
+pilarlaura: Espera turno en la sala de espera.
+ramoncanti: Espera turno en la sala de espera.
+mamadouali: Espera turno en la sala de espera.
+rogeliojav: Espera turno en la sala de espera.
+mariapereg: Espera turno en la sala de espera.
+lamaracaba: Espera turno en la sala de espera.
+ildikosabu: Espera turno en la sala de espera.
+montielsel: Ha sido desconectado del juego.
+vasileeuge: Pasa a ser Jugador activo.
+teresaarac: Espera turno en la sala de espera.
+carmenlara: Espera turno en la sala de espera.
+antoniohec: Espera turno en la sala de espera.
+agustinest: Espera turno en la sala de espera.
+florenciof: Espera turno en la sala de espera.
+wenjingaom: Espera turno en la sala de espera.
+fransgesto: Espera turno en la sala de espera.
+nabiaelkha: Ha sido desconectado del juego.
+mariaesper: Pasa a ser Jugador activo.
+mauricejoh: Espera turno en la sala de espera.
+jeniferpin: Espera turno en la sala de espera.
+lutgardodo: Ha sido desconectado del juego.
+elviraluis: Pasa a ser Jugador activo.
+karinegraj: Ha sido desconectado del juego.
+mariacarme: Pasa a ser Jugador activo.
+victoriale: Espera turno en la sala de espera.
+floricamar: Espera turno en la sala de espera.
+martanoemi: Espera turno en la sala de espera.
+ioaneugene: Espera turno en la sala de espera.
+claudetata: Ha sido desconectado del juego.
+elizetedia: Pasa a ser Jugador activo.
+roberthagu: Espera turno en la sala de espera.
+franciscoa: Espera turno en la sala de espera.
+olgasusana: Espera turno en la sala de espera.
+helenacarm: Espera turno en la sala de espera.
+andresnico: Espera turno en la sala de espera.
+antoniomar: Espera turno en la sala de espera.
+vanessaale: Espera turno en la sala de espera.
+yuanyuanco: Espera turno en la sala de espera.
+surjeetdum: Espera turno en la sala de espera.
+nataliamar: Espera turno en la sala de espera.
+rociocinta: Espera turno en la sala de espera.

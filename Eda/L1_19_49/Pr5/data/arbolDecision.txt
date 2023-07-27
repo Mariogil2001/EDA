@@ -1,0 +1,95 @@
+Tiene el pelo corto?
+Tiene ojos marrones?
+Es hombre?
+Tiene ojos verdes?
+Tiene pelo gris?
+Monica
+.
+.
+Laila
+.
+.
+Aitana
+.
+.
+Tiene el pelo rojo?
+Esta calvo?
+Daniel
+.
+.
+Ivan
+.
+.
+Tiene bigote?
+Jorge
+.
+.
+Pedro
+.
+.
+Tiene pelo oscuro?
+Es hombre?
+Ana
+.
+.
+Tiene piel blanca?
+Jaime
+.
+.
+Tomas
+.
+.
+Esta calvo?
+Guillermo
+.
+.
+Andres
+.
+.
+Es hombre?
+Tiene ojos marrones?
+Tiene pelo rojo?
+Tiene pelo oscuro?
+Olga
+.
+.
+Katherine
+.
+.
+Carla
+.
+.
+Tiene pelo rojo?
+Maria
+.
+.
+Laura
+.
+.
+Tiene pelo rojo?
+Tiene pelo oscuro?
+Tiene bigote?
+Victor
+.
+.
+Marc
+.
+.
+Tiene ojos marrones?
+David
+.
+.
+Samuel
+.
+.
+Tiene barba?
+Sonrie?
+Pablo
+.
+.
+Luis
+.
+.
+Miguel
+.
+.
